@@ -153,7 +153,6 @@ WHERE worst_day_rank = 1;
 
 
 
-
 /* SECTION 3 */
 
 -- Cross Join
